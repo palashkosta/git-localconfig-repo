@@ -1,2 +1,2 @@
-# -git-localconfig-repo
+# git-localconfig-repo
 configuration repo for microservices
